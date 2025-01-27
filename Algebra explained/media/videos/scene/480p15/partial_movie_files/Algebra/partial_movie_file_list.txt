@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/lboui/Desktop/Manim Projects/Algebra explained/media/videos/scene/480p15/partial_movie_files/Algebra/3163782288_840503307_1039981183.mp4'
+file 'file:C:/Users/lboui/Desktop/Manim Projects/Algebra explained/media/videos/scene/480p15/partial_movie_files/Algebra/2201830969_1152718458_3354750684.mp4'
+file 'file:C:/Users/lboui/Desktop/Manim Projects/Algebra explained/media/videos/scene/480p15/partial_movie_files/Algebra/2201830969_4095135340_2920094013.mp4'
+file 'file:C:/Users/lboui/Desktop/Manim Projects/Algebra explained/media/videos/scene/480p15/partial_movie_files/Algebra/2201830969_1634535821_3003200749.mp4'
+file 'file:C:/Users/lboui/Desktop/Manim Projects/Algebra explained/media/videos/scene/480p15/partial_movie_files/Algebra/2201830969_1152718458_3525171621.mp4'
+file 'file:C:/Users/lboui/Desktop/Manim Projects/Algebra explained/media/videos/scene/480p15/partial_movie_files/Algebra/2201830969_1571953456_297234755.mp4'
+file 'file:C:/Users/lboui/Desktop/Manim Projects/Algebra explained/media/videos/scene/480p15/partial_movie_files/Algebra/2201830969_642242398_1346540571.mp4'
+file 'file:C:/Users/lboui/Desktop/Manim Projects/Algebra explained/media/videos/scene/480p15/partial_movie_files/Algebra/2201830969_1152718458_2138979941.mp4'

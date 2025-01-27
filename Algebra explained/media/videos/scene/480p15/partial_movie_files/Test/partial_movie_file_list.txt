@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/lboui/Desktop/Manim Projects/Algebra explained/media/videos/scene/480p15/partial_movie_files/Test/3163782288_971552864_305611268.mp4'
+file 'file:C:/Users/lboui/Desktop/Manim Projects/Algebra explained/media/videos/scene/480p15/partial_movie_files/Test/2201830969_1425985161_2043848410.mp4'
+file 'file:C:/Users/lboui/Desktop/Manim Projects/Algebra explained/media/videos/scene/480p15/partial_movie_files/Test/2201830969_2148686299_99241708.mp4'

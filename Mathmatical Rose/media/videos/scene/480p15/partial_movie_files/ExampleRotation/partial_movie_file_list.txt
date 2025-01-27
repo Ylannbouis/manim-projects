@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/lboui/Desktop/Manim Projects/Mathmatical Rose/media/videos/scene/480p15/partial_movie_files/ExampleRotation/3163782288_2213530746_2422900464.mp4'

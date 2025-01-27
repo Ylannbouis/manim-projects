@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/lboui/Desktop/Manim Projects/Mathmatical Rose/media/videos/scene/480p15/partial_movie_files/CountingScene/3163782288_3503346753_1218397689.mp4'
+file 'file:C:/Users/lboui/Desktop/Manim Projects/Mathmatical Rose/media/videos/scene/480p15/partial_movie_files/CountingScene/2201830969_809363681_131115669.mp4'
+file 'file:C:/Users/lboui/Desktop/Manim Projects/Mathmatical Rose/media/videos/scene/480p15/partial_movie_files/CountingScene/2201830969_641011677_4072699309.mp4'

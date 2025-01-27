@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/lboui/Desktop/Manim Projects/Fractal Challenge/media/videos/scene/480p15/partial_movie_files/Problem_1/3163782288_4205376940_1318432600.mp4'
+file 'file:C:/Users/lboui/Desktop/Manim Projects/Fractal Challenge/media/videos/scene/480p15/partial_movie_files/Problem_1/2201830969_703795865_1197075038.mp4'
+file 'file:C:/Users/lboui/Desktop/Manim Projects/Fractal Challenge/media/videos/scene/480p15/partial_movie_files/Problem_1/2201830969_3006148960_2760716992.mp4'
